@@ -1,0 +1,7 @@
+boto3
+schedule
+python-dotenv
+yt-dlp
+pytrends
+beautifulsoup4
+requests
